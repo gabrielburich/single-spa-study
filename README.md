@@ -4,7 +4,7 @@ Single-spa study. I created three micro-frontend applications and the root-confi
 
 Applications:
 
-- [main-page](https://github.com/gabrielburich/single-spa-study/tree/main/root-config) Registry the other applications
+- [root-config](https://github.com/gabrielburich/single-spa-study/tree/main/root-config) Registry the other applications
 - [main-page](https://github.com/gabrielburich/single-spa-study/tree/main/main-page) A div with a label
 - [second-page](https://github.com/gabrielburich/single-spa-study/tree/main/seccond-page) Other div with a label
 - [nav-bar](https://github.com/gabrielburich/single-spa-study/tree/main/nav-bar) A menu
